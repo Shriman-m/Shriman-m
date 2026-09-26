@@ -1,4 +1,4 @@
-# Hey, I'm Shriman 👋
+# Hey, I'm Shriman 
 
 ### B.Tech AI & Data Science Student | AI/ML • Full-Stack • Data Analytics
 
@@ -8,17 +8,17 @@ I like taking an idea from **problem → data → model → application** and tu
 
 ---
 
-## 🚀 What I'm Working On
+##  What I'm Working On
 
-* 🤖 **AI/ML** — NLP, Computer Vision, Classification & Model Evaluation
-* 💻 **Full-Stack Development** — React, FastAPI, Python & modern web applications
-* 📊 **Data Analytics** — EDA, data visualization, statistical analysis & insights
-* 🧠 **Research** — ML-based natural-language interfaces and intelligent automation
-* 🎮 **Game Development** — Currently exploring Unity & 3D game development
+*  **AI/ML** — NLP, Computer Vision, Classification & Model Evaluation
+*  **Full-Stack Development** — React, FastAPI, Python & modern web applications
+*  **Data Analytics** — EDA, data visualization, statistical analysis & insights
+*  **Research** — ML-based natural-language interfaces and intelligent automation
+*  **Game Development** — Currently exploring Unity & 3D game development
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -54,9 +54,9 @@ I like taking an idea from **problem → data → model → application** and tu
 
 ---
 
-## 🔬 Featured Work
+##  Featured Work
 
-### 🤖 MCP-Driven Intelligent Laptop Automation
+###  MCP-Driven Intelligent Laptop Automation
 
 Natural-language laptop automation using **Machine Learning, NLP, speech recognition and Model Context Protocol**.
 
@@ -65,7 +65,7 @@ Natural-language laptop automation using **Machine Learning, NLP, speech recogni
 * Achieved **100% validation accuracy** on structured evaluation
 * Research paper accepted
 
-### 🛍️ LocalSaarthi
+###  LocalSaarthi
 
 AI-powered business intelligence platform for **local vendors**.
 
@@ -74,7 +74,7 @@ AI-powered business intelligence platform for **local vendors**.
 * React + FastAPI architecture
 * Data processing with Python & Pandas
 
-### ✍️ Mathematical Expression Recognition & Solver
+###  Mathematical Expression Recognition & Solver
 
 Computer vision system for recognizing **handwritten mathematical expressions**.
 
@@ -83,7 +83,7 @@ Computer vision system for recognizing **handwritten mathematical expressions**.
 * Expression parsing & solving
 * MediaPipe-based gesture input exploration
 
-### 🗄️ Crime & Criminal Intelligence Database
+###  Crime & Criminal Intelligence Database
 
 A normalized **MySQL database system** for managing crime and criminal intelligence.
 
@@ -94,7 +94,7 @@ A normalized **MySQL database system** for managing crime and criminal intellige
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 ```text
 AI/ML              ███████████████████░░
@@ -108,16 +108,16 @@ Currently exploring **better ML pipelines, intelligent applications, full-stack 
 
 ---
 
-## 🎯 Beyond Code
+##  Beyond Code
 
-🎨 **Jagruti** — Art & Literature Team
-🎵 **Malhar** — Music Team
+ **Jagruti** — Art & Literature Team
+ **Malhar** — Music Team
 
 I also enjoy **writing, music, creative projects and building things just because I want to see if I can.**
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shriman-m&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -126,7 +126,7 @@ I also enjoy **writing, music, creative projects and building things just becaus
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shriman-m">
